@@ -14,3 +14,6 @@
 	path = multiplayer-fabric-skills
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-skills.git
 	branch = main
+[submodule "xr-grid"]
+	path = xr-grid
+	url = https://github.com/V-Sekai/xr-grid.git
