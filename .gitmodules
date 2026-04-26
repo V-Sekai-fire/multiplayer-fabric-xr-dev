@@ -6,8 +6,8 @@
 	path = multiplayer-fabric-interaction-system
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-interaction-system.git
 	branch = main
-[submodule "multiplayer-fabric-godot"]
-	path = multiplayer-fabric-godot
+[submodule "opentelemetry-godot"]
+	path = opentelemetry-godot
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-godot.git
 	branch = multiplayer-fabric
 [submodule "multiplayer-fabric-skills"]
