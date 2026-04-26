@@ -9,7 +9,7 @@
 [submodule "opentelemetry-godot"]
 	path = opentelemetry-godot
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-godot.git
-	branch = multiplayer-fabric
+	branch = feat/module-sqlite
 [submodule "multiplayer-fabric-skills"]
 	path = multiplayer-fabric-skills
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-skills.git
