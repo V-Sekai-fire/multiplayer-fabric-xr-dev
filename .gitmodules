@@ -14,16 +14,7 @@
 	path = multiplayer-fabric-skills
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-skills.git
 	branch = main
-[submodule "xr-grid"]
-	path = xr-grid
-	url = https://github.com/V-Sekai/xr-grid.git
 [submodule "lean4-predictive-bvh-proofs"]
 	path = lean4-predictive-bvh-proofs
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-predictive-bvh.git
-[submodule "cassie"]
-	path = cassie
-	url = https://github.com/V-Sekai/cassie.git
-[submodule "multiplayer-fabric-rx"]
-	path = multiplayer-fabric-rx
-	url = https://github.com/V-Sekai-fire/multiplayer-fabric-rx.git
-	branch = main
+	
