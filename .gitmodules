@@ -20,3 +20,6 @@
 [submodule "lean4-predictive-bvh-proofs"]
 	path = lean4-predictive-bvh-proofs
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-predictive-bvh.git
+[submodule "cassie"]
+	path = cassie
+	url = https://github.com/V-Sekai/cassie.git
