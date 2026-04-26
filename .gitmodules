@@ -17,3 +17,6 @@
 [submodule "xr-grid"]
 	path = xr-grid
 	url = https://github.com/V-Sekai/xr-grid.git
+[submodule "multiplayer-fabric-predictive-bvh"]
+	path = multiplayer-fabric-predictive-bvh
+	url = https://github.com/V-Sekai-fire/multiplayer-fabric-predictive-bvh.git
