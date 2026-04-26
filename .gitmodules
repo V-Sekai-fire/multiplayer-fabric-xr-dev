@@ -23,3 +23,7 @@
 [submodule "cassie"]
 	path = cassie
 	url = https://github.com/V-Sekai/cassie.git
+[submodule "multiplayer-fabric-rx"]
+	path = multiplayer-fabric-rx
+	url = https://github.com/V-Sekai-fire/multiplayer-fabric-rx.git
+	branch = main
