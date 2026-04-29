@@ -21,3 +21,6 @@
 [submodule "multiplayer-fabric-taskweft"]
 	path = multiplayer-fabric-taskweft
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-taskweft.git
+[submodule "opentelemetry-godot-project"]
+	path = opentelemetry-godot-project
+	url = https://github.com/V-Sekai-fire/opentelemetry-godot-project.git
