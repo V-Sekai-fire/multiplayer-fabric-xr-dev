@@ -2,10 +2,12 @@
 	path = multiplayer-fabric-interaction-system-project
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-interaction-system-project.git
 	branch = main
+	ignore = untracked
 [submodule "multiplayer-fabric-interaction-system"]
 	path = multiplayer-fabric-interaction-system
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-interaction-system.git
 	branch = main
+	ignore = untracked
 [submodule "opentelemetry-godot"]
 	path = opentelemetry-godot
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-godot.git
