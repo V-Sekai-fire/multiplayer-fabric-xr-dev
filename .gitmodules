@@ -18,3 +18,6 @@
 	path = lean4-predictive-bvh-proofs
 	url = https://github.com/V-Sekai-fire/multiplayer-fabric-predictive-bvh.git
 	
+[submodule "multiplayer-fabric-taskweft"]
+	path = multiplayer-fabric-taskweft
+	url = https://github.com/V-Sekai-fire/multiplayer-fabric-taskweft.git
